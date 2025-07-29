@@ -20,7 +20,7 @@ class BallPage extends StatelessWidget {
             'Magic Ball',
             style: TextStyle(color: Colors.white, fontSize: 28),
           ),
-          backgroundColor: Colors.blue[600],
+          backgroundColor: Colors.blue[700],
           centerTitle: true,
         ),
         body: const Center(child: BallWidget()),
