@@ -18,7 +18,7 @@ class BallPage extends StatelessWidget {
         appBar: AppBar(
           title: const Text(
             'Magic Ball',
-            style: TextStyle(color: Colors.white, fontSize: 28),
+            style: TextStyle(color: Colors.white70, fontSize: 28),
           ),
           backgroundColor: Colors.blue[700],
           centerTitle: true,
